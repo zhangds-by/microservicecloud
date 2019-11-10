@@ -6,4 +6,7 @@ package com.zhangds.springcloud;
  **/
 
 public class EurekaServer7001_App {
+    public void test(){
+
+    }
 }
