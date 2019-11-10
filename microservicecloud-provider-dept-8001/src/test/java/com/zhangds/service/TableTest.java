@@ -4,13 +4,9 @@ import com.alibaba.fastjson.JSON;
 import org.apache.poi.xwpf.usermodel.XWPFDocument;
 import org.apache.poi.xwpf.usermodel.XWPFTable;
 import org.junit.Test;
-import utils.ConvertUtil;
-import utils.JsonUtil;
-import utils.TableUtil;
-import utils.XmlUtil;
+import com.zhangds.utils.JsonUtil;
 
 import java.io.FileInputStream;
-import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 
