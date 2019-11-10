@@ -7,7 +7,6 @@
         <module>microservicecloud-api</module>
         <module>microservicecloud-provider-dept-8001</module>
         <module>microservicecloud-consumer-dept-80</module>
-        <module>microservicecloud-consumer-dept-80</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
